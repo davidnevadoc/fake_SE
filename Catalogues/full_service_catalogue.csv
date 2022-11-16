@@ -1,0 +1,261 @@
+Site,Product,N_sevices
+Amazon,play,425
+Amazon,review,224
+Amazon,traffic,351
+Amazon Prime,account,113
+Amazon Prime Video,account,7
+App,account,113
+App,download,169
+App,install,23044
+App,like,397
+App,play,936
+App,promotion,438
+App,rating,1036
+App,review,12339
+App,share,1
+App,view,77
+Audiomack,follower,408
+Audiomack,like,408
+Audiomack,play,882
+Audiomack,repost,254
+Blogger,traffic,3426
+Brazzers,account,33
+DatPiff,comment,104
+DatPiff,download,575
+DatPiff,play,1226
+DatPiff,profile view,1158
+DatPiff,stream,401
+DatPiff,view,535
+Deezer,follower,109
+Deezer,like,109
+Deezer,play,1259
+Discord,member,145
+Disney,account,33
+Empty Value,Empty Value,98
+Facebook,account,100
+Facebook,comment,19424
+Facebook,event confirmed,280
+Facebook,event interested,1537
+Facebook,fan,24
+Facebook,follower,9249
+Facebook,friend request,890
+Facebook,group member,2248
+Facebook,like,81142
+Facebook,member,106
+Facebook,poll vote,338
+Facebook,post,1873
+Facebook,rating,1504
+Facebook,reaction,2169
+Facebook,review,5070
+Facebook,share,6767
+Facebook,story view,607
+Facebook,stream,1886
+Facebook,traffic,403
+Facebook,video view,33897
+Facebook,view,28510
+Facebook,vote,376
+Google,comment,240
+Google,download,532
+Google,follower,1238
+Google,like,920
+Google,play,1245
+Google,post,1274
+Google,rating,306
+Google,review,3104
+Google,seo,334
+Google,share,1444
+Google,traffic,1
+Google,visitor,4354
+Google Business,review,10948
+Google+,follower,310
+Google+,like,197
+Google+,post,111
+Google+,share,197
+HotNewHipHop,play,328
+Hotstar,account,111
+IGTV,comment,2696
+IGTV,like,1683
+IGTV,view,2827
+IMDB,rating,97
+IMDB,review,4112
+IMDB,starmeter,2139
+IMDB,view,1576
+IMDB,vote,14186
+Instagram,account,329
+Instagram,comment,73594
+Instagram,follower,209063
+Instagram,impression,35599
+Instagram,interaction,17
+Instagram,like,278015
+Instagram,pin,32
+Instagram,poll vote,3552
+Instagram,post,1135
+Instagram,profile view,36
+Instagram,promotion,112
+Instagram,repost,57
+Instagram,saves,15304
+Instagram,share,1056
+Instagram,story view,33709
+Instagram,stream,87
+Instagram,traffic,1165
+Instagram,video view,15389
+Instagram,view,116469
+Instagram,vote,1427
+LinkedIn,comment,1734
+LinkedIn,endorsement,1477
+LinkedIn,follower,14359
+LinkedIn,group member,267
+LinkedIn,like,3622
+LinkedIn,reaction,236
+LinkedIn,recommendation,1466
+LinkedIn,share,1972
+LinkedIn,traffic,317
+LinkedIn,video view,165
+LinkedIn,view,325
+LiveMe,follower,653
+LiveMe,view,1193
+MixCloud,comment,427
+MixCloud,follower,755
+MixCloud,like,1128
+MixCloud,play,3079
+MixCloud,repost,1258
+Netflix,account,525
+Periscope,follower,1959
+Periscope,like,2889
+Pinterest,comment,51
+Pinterest,follower,10146
+Pinterest,like,3195
+Pinterest,pin,702
+Pinterest,repin,2697
+Podcast,download,3391
+Podcast,like,334
+Podcast,play,1615
+Podcast,promotion,884
+Podcast,rating,535
+Podcast,review,2458
+Podcast,stream,1805
+Podcast,subscriber,1570
+Pornhub,account,62
+Quora,follower,869
+Quora,like,711
+Quora,share,1071
+Quora,subscriber,314
+Quora,traffic,403
+Quora,view,194
+Quora,vote,1959
+Reddit,comment,169
+Reddit,member,133
+Reddit,post,36
+Reddit,subscriber,52
+Reddit,traffic,403
+Reddit,vote,2300
+Reverbnation,fan,1345
+Reverbnation,follower,359
+Reverbnation,impression,374
+Reverbnation,play,2063
+Reverbnation,saves,780
+Reverbnation,video view,710
+Shazam,follower,1283
+Shazam,like,17
+Shazam,play,5741
+Snapchat,account,100
+Snapchat,follower,40
+SoundCloud,comment,6307
+SoundCloud,download,5252
+SoundCloud,follower,10882
+SoundCloud,like,10186
+SoundCloud,play,15171
+SoundCloud,repost,9407
+Spotify,account,220
+Spotify,follower,46455
+Spotify,listener,17442
+Spotify,play,102665
+Spotify,saves,18590
+Spotify,seo,113
+Spotify,stream,896
+Spreaker,comment,495
+Spreaker,download,495
+Spreaker,follower,604
+Spreaker,like,604
+Spreaker,play,197
+Telegram,channel member,8998
+Telegram,group member,4892
+Telegram,like,2515
+Telegram,member,1154
+Telegram,view,19916
+Telegram,vote,206
+Tidal,follower,1746
+Tidal,like,814
+Tidal,listener,814
+Tidal,play,3477
+Tidal,stream,360
+TikTok,account,100
+TikTok,comment,1346
+TikTok,follower,10446
+TikTok,like,12250
+TikTok,share,1624
+TikTok,traffic,36
+TikTok,video view,803
+TikTok,view,9934
+Tumblr,follower,3010
+Tumblr,like,3004
+Tumblr,reblog,2776
+Tumblr,traffic,455
+Twitch,follower,17222
+Twitch,play,1778
+Twitch,subscriber,1285
+Twitch,traffic,317
+Twitch,video view,1232
+Twitch,view,30913
+Twitter,account,100
+Twitter,comment,6299
+Twitter,follower,13585
+Twitter,impression,7486
+Twitter,like,9953
+Twitter,poll vote,8763
+Twitter,retweet,11614
+Twitter,share,618
+Twitter,traffic,403
+Twitter,video view,5949
+Twitter,view,5635
+VK,comment,57
+VK,follower,674
+VK,like,986
+VK,share,57
+VK,subscriber,109
+VK,traffic,317
+VK,view,250
+Vimeo,follower,2257
+Vimeo,like,2148
+Vimeo,video view,862
+Vimeo,view,2952
+Website,+1,345
+Website,comment,100
+Website,like,913
+Website,pin,23012
+Website,post,2184
+Website,promotion,611
+Website,rating,3
+Website,review,20
+Website,seo,370
+Website,share,1315
+Website,traffic,341077
+Website,visitor,8669
+Website,vote,100
+WorldStarHipHop,play,489
+YouTube,ads view,35540
+YouTube,comment,42244
+YouTube,fan,17
+YouTube,impression,40
+YouTube,like,48436
+YouTube,play,40
+YouTube,premiere wait,452
+YouTube,promotion,655
+YouTube,seo,1143
+YouTube,share,48095
+YouTube,subscriber,27782
+YouTube,traffic,2144
+YouTube,video view,147
+YouTube,view,262076
+YouTube,visitor,1344
+YouTube,watchtime,9888
